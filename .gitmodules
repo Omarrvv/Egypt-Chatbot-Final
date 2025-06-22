@@ -1,0 +1,6 @@
+[submodule "Bot-Website"]
+	path = Bot-Website
+	url = https://github.com/karimE2210/EgyTour.git
+[submodule "egypt-chatbot-wind-cursor"]
+	path = egypt-chatbot-wind-cursor
+	url = https://github.com/Omarrvv/final_bot.git
